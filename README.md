@@ -1,2 +1,2 @@
 # Snake-Water-Gun-Game
-Python
+This Game is in Python. 
